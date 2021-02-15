@@ -1,4 +1,4 @@
-# hoshi-front
+# vue-front
 
 ## Project setup
 ```
